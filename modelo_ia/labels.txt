@@ -1,0 +1,5 @@
+0 Pollo
+1 Tortuga
+2 Cohete
+3 Cartas pokemon
+4 Sylveon
